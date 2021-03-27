@@ -1,6 +1,5 @@
 import streamlit as st
 import os
-import cv2
 import random
 from PIL import Image
 #st.title('NFT-Pokemons')
