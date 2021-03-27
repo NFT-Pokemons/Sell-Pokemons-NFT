@@ -1,2 +1,3 @@
 venv/*
 .env
+pokemon-gpt-2-output/*
